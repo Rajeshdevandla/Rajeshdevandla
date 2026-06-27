@@ -16,7 +16,7 @@
 
 ## Experience
 
-- **Full Stack Developer @ Mutual of Omaha** (2022–2025) — Built systems serving **50K+ policyholders**, integrated OpenAI API to automate internal workflows, implemented Kafka event pipelines and CI/CD on AWS
+- **Full Stack Developer @ Mutual of Omaha** (2023–2026) — Built systems serving **50K+ policyholders**, integrated OpenAI API to automate internal workflows, implemented Kafka event pipelines and CI/CD on AWS
 - **Backend Java Developer @ MUFG Bank** (2020–2022) — Built high-throughput transaction processing handling **10K+ daily transactions**
 
 ---
