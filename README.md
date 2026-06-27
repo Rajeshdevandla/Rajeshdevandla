@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rajesh Kumar 👋</h1>
+<h1 align="center">Rajesh Kumar</h1>
 
 <p align="center">
   <strong>Full Stack Java & AI Developer · Chicago, IL</strong><br/>
@@ -14,28 +14,28 @@
 
 ---
 
-## 🏢 Experience
+## Experience
 
 - **Full Stack Developer @ Mutual of Omaha** (2022–2025) — Built systems serving **50K+ policyholders**, integrated OpenAI API to automate internal workflows, implemented Kafka event pipelines and CI/CD on AWS
 - **Backend Java Developer @ MUFG Bank** (2020–2022) — Built high-throughput transaction processing handling **10K+ daily transactions**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What It Does | Stack |
 |---|---|---|
 | [**AgentFlow**](https://github.com/Rajeshdevandla/agent-flow) | Multi-agent orchestration with Constitutional AI safety layer. 6 agents, 55-test eval framework (honest C+ result) | Python · Anthropic Claude SDK · FastAPI |
 | [**AskDocs AI**](https://github.com/Rajeshdevandla/askdocs-ai) | RAG PDF chatbot — upload any document, ask questions, get page-cited answers | Python · Amazon Bedrock · FAISS · FastAPI |
-| [**AI Document Intelligence**](https://github.com/Rajeshdevandla/ai-document-intelligence-platform) | PDF → OCR → LLM extraction → structured JSON, real-time React dashboard | Java · Spring Boot · Python · OpenAI · Kafka |
+| [**AI Document Intelligence**](https://github.com/Rajeshdevandla/ai-document-intelligence-platform) | PDF to OCR to LLM extraction to structured JSON, real-time React dashboard | Java · Spring Boot · Python · OpenAI · Kafka |
 | [**SupportGPT**](https://github.com/Rajeshdevandla/support-gpt) | AI customer support: FAQ matching, sentiment-aware escalation, LLM fallback | Python · Amazon Bedrock · FastAPI |
-| [**SQLGenie**](https://github.com/Rajeshdevandla/sql-genie) | Natural language → SQL with safety validation (SELECT-only) | Python · Amazon Bedrock · FastAPI |
+| [**SQLGenie**](https://github.com/Rajeshdevandla/sql-genie) | Natural language to SQL with safety validation (SELECT-only) | Python · Amazon Bedrock · FastAPI |
 | [**Banking Microservices**](https://github.com/Rajeshdevandla/banking-transaction-microservices) | Fund transfers, Kafka async notifications, JWT auth across services | Java · Spring Boot · Kafka · PostgreSQL |
 | [**Insurance Portal**](https://github.com/Rajeshdevandla/insurance-customer-portal) | Full-stack policy/claims/billing portal with role-based access | Angular · Spring Boot · PostgreSQL · AWS |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajeshdevandla&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
@@ -81,9 +81,9 @@
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 Open to **Java/Spring Boot backend**, **full stack**, or **AI/ML engineering** roles.
 
-- 🌐 Portfolio: [rajeshdevandla.github.io](https://rajeshdevandla.github.io)
-- 💼 LinkedIn: [linkedin.com/in/rajeshdevandla](https://www.linkedin.com/in/rajeshdevandla)
+- Portfolio: [rajeshdevandla.github.io](https://rajeshdevandla.github.io)
+- LinkedIn: [linkedin.com/in/rajeshdevandla](https://www.linkedin.com/in/rajeshdevandla)
