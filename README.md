@@ -62,6 +62,14 @@
 
 ---
 
+## Verified Certifications
+
+- [**Angular (Basic)**](https://www.hackerrank.com/certificates/9b13e521ce69) — HackerRank
+- [**Problem Solving (Intermediate)**](https://www.hackerrank.com/certificates/9a535140e008) — HackerRank
+- [View complete HackerRank profile](https://www.hackerrank.com/profile/rajeshdevandla9)
+
+---
+
 ## Activity
 
 GitHub's contribution graph below this README is the authoritative activity record. Project quality, working tests, documentation, and reviewable pull requests matter more than third-party contribution counters.
