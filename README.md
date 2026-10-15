@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://rajeshdevandla.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=github" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/rajeshdevandla"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/profile/rajeshdevandla9"><img src="https://img.shields.io/badge/HackerRank-View_Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank Profile" /></a>
   <img src="https://komarev.com/ghpvc/?username=Rajeshdevandla&style=flat-square&color=green" alt="Profile views" />
 </p>
 
@@ -73,3 +74,4 @@ Open to **AI Engineer**, **Generative AI Engineer**, **LLM Application Engineer*
 
 - Portfolio: [rajeshdevandla.github.io](https://rajeshdevandla.github.io)
 - LinkedIn: [linkedin.com/in/rajeshdevandla](https://www.linkedin.com/in/rajeshdevandla)
+- HackerRank: [hackerrank.com/profile/rajeshdevandla9](https://www.hackerrank.com/profile/rajeshdevandla9)
